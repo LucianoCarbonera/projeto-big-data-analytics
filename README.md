@@ -1,5 +1,6 @@
 # projeto-big-data-analytics
 ## Projeto final da disciplina de Big Data e Analytics
+Tecnologias: Python e Pandas
 
 Contexto: você e seu colega foram contratados pelo Hospital Sírio-Libanês, em São Paulo, como Cientistas de Dados Júnior. 
 
